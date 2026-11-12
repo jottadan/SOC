@@ -10,5 +10,9 @@ O objetivo deste espaço é registrar investigações práticas sob uma ótica a
 
 ```text
 Relatorios-de-Seguranca/
-├── SOC/                 # Documentações, playbooks e relatórios de incidentes/ameaças
+├── SOC/                 # Estudos de caso, análises e investigações de incidentes/ameaças
 └── README.md            # Visão geral
+```
+
+---
+
