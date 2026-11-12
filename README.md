@@ -16,3 +16,19 @@ Relatorios-de-Seguranca/
 
 ---
 
+## Metodologia Aplicada
+
+Cada documento segue uma linha direta de investigação empírica:
+
+**Contexto e Hipóteses:** O que está circulando ou sendo observado, e quais são as possíveis explicações técnicas.
+
+**Ambiente e Testes:** Criação de cenários controlados (ex.: Contas de teste, interceptação de tráfego HTTP/S, análise de redirecionamento) para validar ou descartar as hipóteses.
+
+**Evidências e Cadeia de Comportamento:** Mapeamento passo a passo do que realmente acontece na prática (e extração de IOCs, quando aplicável).
+
+**Conclusão e Limitações:** O que os dados comprovam de fato e quais são os limites do que foi testado.
+
+---
+
+## ⚠️ Aviso Legal (Disclaimer)
+Todas as investigações têm caráter estritamente educacional e de pesquisa defensiva. Os testes em ambiente controlado são realizados exclusivamente com contas próprias e dados fictícios, sem impacto a terceiros.
