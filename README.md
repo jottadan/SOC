@@ -1,12 +1,14 @@
-# Relatórios de Segurança
+# Securty Operation Center - Portfólio de Investigações
 
-Este repositório contém análises de segurança sobre eventos criados artificialmente, dados públicos ou eventos suspeitos que encontro aleatoriamente.
+Repositório dedicado à documentação de análises de ameaças, investigações de incidentes, engenharia social e procedimentos operacionais voltados a um ambiente de **Security Operations Center (SOC)** e **Cyber Threat Intelligence (CTI)**.
 
-## Conteúdo
+O objetivo deste espaço é registrar investigações práticas sob uma ótica analítica: separar rumores de evidências técnicas, estruturar fluxos de triagem e registrar lições defensivas acionáveis.
 
-- Robux Scam Analysis (Redirecionamento + CPI)
-- Roblox Phishing Login (uso malicioso de ferramentas legítimas in-game)
+---
 
-## Objetivo
+## 📁 Estrutura do Repositório
 
-Desenvolver habilidades práticas em investigações relacionadas as atividades de um **Centro de Operações de Segurança (SOC)** e **Inteligência de Ameaças Cibernéticas (CTI).**
+```text
+Relatorios-de-Seguranca/
+├── SOC/                 # Documentações, playbooks e relatórios de incidentes/ameaças
+└── README.md            # Visão geral
